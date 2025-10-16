@@ -7,30 +7,30 @@ Características principales:
 
 Frontend:
 
-Formularios para crear, actualizar y eliminar artículos.
+- Formularios para crear, actualizar y eliminar artículos.
 
-Tabla que lista todos los artículos con botones de editar y eliminar.
+- Tabla que lista todos los artículos con botones de editar y eliminar.
 
-Interfaz responsiva usando Bootstrap.
+- Interfaz responsiva usando Bootstrap.
 
-Validación de campos y alertas dinámicas con jQuery y modales.
+- Validación de campos y alertas dinámicas con jQuery y modales.
 
 Backend:
 
-Clases en PHP (articulo.php) que manejan la lógica de negocio.
+- Clases en PHP que manejan la lógica de negocio.
 
-procesos.php actúa como controlador para insertar, actualizar o eliminar artículos.
+- procesos.php actúa como controlador para insertar, actualizar o eliminar artículos.
 
-Conexión a MySQL (sql.php) para almacenar y recuperar datos de los artículos.
+- Conexión a MySQL (sql.php) para almacenar y recuperar datos de los artículos.
 
 Objetivo del proyecto:
 
-Aprender y demostrar técnicas de desarrollo web completo, integrando frontend y backend, manejo de datos con PHP y MySQL, y mejorar la experiencia de usuario con Bootstrap y jQuery.
+- Aprender y demostrar técnicas de desarrollo web completo, integrando frontend y backend, manejo de datos con PHP y MySQL, y mejorar la experiencia de usuario con Bootstrap y jQuery.
 
 Archivos incluidos:
 
-Código fuente PHP.
+- Código fuente PHP.
 
-Archivos CSS (Bootstrap).
+- Archivos CSS (Bootstrap).
 
-Archivos JS (jQuery y Bootstrap).
+- Archivos JS (jQuery y Bootstrap).
