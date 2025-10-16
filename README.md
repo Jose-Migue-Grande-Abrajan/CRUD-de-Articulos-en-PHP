@@ -1,29 +1,36 @@
-# CRUD-de-Art-culos-en-PHP
-Este proyecto es un sistema CRUD para gestionar artículos, desarrollado en PHP, con base de datos MySQL, Bootstrap para el diseño y jQuery para la interacción.
+# CRUD-de-Articulos-en-PHP
+Este proyecto es un sistema CRUD para gestionar artículos, desarrollado con PHP para el backend y MySQL como base de datos, junto con Bootstrap y jQuery en el frontend para la interfaz y la interacción dinámica.
 
-El proyecto está diseñado para ser educativo, mostrando cómo crear un CRUD completo con interacción dinámica usando AJAX y modales para alertas.
+El proyecto está diseñado para ser educativo, mostrando cómo se puede crear un CRUD completo con frontend y backend, usando AJAX para comunicación dinámica y modales para alertas.
 
 Características principales:
 
-- Crear artículos con ID, nombre y costo.
+Frontend:
 
-- Listar todos los artículos en una tabla con botones de editar y eliminar.
+Formularios para crear, actualizar y eliminar artículos.
 
-- Actualizar información de artículos existentes.
+Tabla que lista todos los artículos con botones de editar y eliminar.
 
-- Eliminar artículos del inventario.
+Interfaz responsiva usando Bootstrap.
 
-- Validación de campos en el front-end.
+Validación de campos y alertas dinámicas con jQuery y modales.
 
-- Interfaz responsiva con Bootstrap y alertas modales.
+Backend:
+
+Clases en PHP (articulo.php) que manejan la lógica de negocio.
+
+procesos.php actúa como controlador para insertar, actualizar o eliminar artículos.
+
+Conexión a MySQL (sql.php) para almacenar y recuperar datos de los artículos.
 
 Objetivo del proyecto:
-- Aprender y demostrar técnicas de desarrollo web básico con PHP y MySQL, manejo de datos mediante CRUD, y uso de Bootstrap y jQuery para mejorar la experiencia de usuario.
+
+Aprender y demostrar técnicas de desarrollo web completo, integrando frontend y backend, manejo de datos con PHP y MySQL, y mejorar la experiencia de usuario con Bootstrap y jQuery.
 
 Archivos incluidos:
 
-- Código fuente PHP.
+Código fuente PHP.
 
-- Archivos CSS (Bootstrap).
+Archivos CSS (Bootstrap).
 
-- Archivos JS (jQuery y Bootstrap).
+Archivos JS (jQuery y Bootstrap).
